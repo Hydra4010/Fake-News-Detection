@@ -145,15 +145,7 @@ Output:
 
 ## 📸 Application Interface
 
-(Add screenshot of your Streamlit app here)
-
-Example:
-
-```
-Fake News Detection System
-[ Enter News Text ]
-[ Check News ]
-```
+![Fake News Detector](images/app_screenshot.png)
 
 ---
 
